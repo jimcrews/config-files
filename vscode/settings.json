@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "window.restoreWindows": "none",
+    "eslint.run": "onSave",
+    "prettier.singleQuote": true
+}
