@@ -53,3 +53,9 @@ du -sh /var/log/journal/
 ```
 sudo journalctl vacuum-time=2weeks (in my case)
 ```
+
+#### references:
+
+> https://wiki.archlinux.org/index.php/System_maintenance
+
+> https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks
